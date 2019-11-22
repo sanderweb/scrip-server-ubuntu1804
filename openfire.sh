@@ -58,7 +58,8 @@ FLUSH="FLUSH PRIVILEGES;"
 #
 # Declarando a variável de download do OpenFire
 # OPENFIRE="https://www.igniterealtime.org/downloadServlet?filename=openfire/openfire_4.2.3_all.deb"
-  OPENFIRE="https://www.igniterealtime.org/downloads/download-landing.jsp?file=openfire/openfire_4.4.4_all.deb"
+# OPENFIRE="https://www.igniterealtime.org/downloads/download-landing.jsp?file=openfire/openfire_4.4.4_all.deb"
+  OPENFIRE="https://www.igniterealtime.org/downloadServlet?filename=openfire/openfire_4.4.4_all.deb"
 #
 # Verificando se o usuário e Root, Distribuição e >=18.04 e o Kernel >=4.15 <IF MELHORADO)
 # [ ] = teste de expressão, && = operador lógico AND, == comparação de string, exit 1 = A maioria dos erros comuns na execução
