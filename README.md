@@ -1,6 +1,6 @@
 scrip-server-ubuntu1804
 
-git clone https://github.com/sanderweb/scrip-server-ubuntu1804.git
-cd ubuntu1804.git
-git pull
+git clone https://github.com/sanderweb/scrip-server-ubuntu1804.git <br>
+cd ubuntu1804.git <br>
+git pull ,br>
 bash glpi.sh
